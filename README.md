@@ -3,7 +3,7 @@
 ## Hello there, I am Kateryna Lazarieva, Senior iOS Software Engineer
 
 ## I’m currently open to a freelancer iOS Software Engineer position
-## Also available for an expert tech consultations. Feel free to contact me via email.
+Also available for an expert tech consultations. Feel free to contact me via email.
 
 ## 📍 Currently located in Belgium, Brussels. 
 
